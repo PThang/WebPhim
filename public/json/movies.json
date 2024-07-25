@@ -1,0 +1,4243 @@
+[
+    {
+        "id": 133,
+        "title": "Shikanoko Nokonoko Koshitantan",
+        "name_eng": "My Deer Friend Nokotan",
+        "thoi_luong": "24 phút",
+        "season": "1",
+        "description": "<p>Kh&ocirc;ng ai biết về b&iacute; mật của Torako - rằng c&ocirc; từng l&agrave; người từng một thời l&agrave;m giang hồ. Đối với c&aacute;c bạn c&ugrave;ng lớp, th&igrave; c&ocirc; ấy l&agrave; một nữ sinh ho&agrave;n hảo. Nhưng cuộc sống học đường của Torako dần bị x&aacute;o trộn khi Nokotan, một nữ sinh chuyển trường với đ&ocirc;i gạc theo đ&uacute;ng nghĩa đen v&agrave; c&oacute; một khứu gi&aacute;c kỳ lạ, n&ecirc;n c&ocirc; ấy c&oacute; thể &quot;đ&aacute;nh hơi&quot; được qu&aacute; khứ của Torako. D&ugrave; l&agrave; trường học hay sở th&uacute;, th&igrave; Nokotan vẫn lu&ocirc;n l&agrave; &quot;c&ocirc; nai&quot; kỳ lạ, l&agrave;m đảo lộn mọi nhận thức th&ocirc;ng thường của Torako. Liệu Torako l&agrave; một c&ocirc; g&aacute;i, hay l&agrave; một con nai hoặc thậm ch&iacute; l&agrave; cả hai? C&ugrave;ng đ&oacute;n xem nh&eacute;!<\/p>",
+        "trailer": "DiQuf1IpqhM",
+        "tags": "Shikanoko Nokonoko Koshitantan, My Deer Friend Nokotan",
+        "slug": "My Deer Friend Nokotan",
+        "resolution": 0,
+        "phude": 0,
+        "sotap": 12,
+        "status": 1,
+        "image": "A32422-1768605991173.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2024-06-14 21:56:29",
+        "ngay_cap_nhat": "2024-06-14 21:56:29",
+        "year": "2023",
+        "category_id": 19,
+        "thuocphim": "phimbo",
+        "genre_id": 3,
+        "country_id": 13,
+        "episode_count": 2,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 36,
+                "title": "Anime",
+                "description": "<p>Phim hoạt h&igrave;nh Nhật Bản<\/p>",
+                "status": 1,
+                "slug": "anime",
+                "pivot": {
+                    "movie_id": 133,
+                    "genre_id": 36
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 132,
+        "title": "Kamen Rider Ryuki",
+        "name_eng": "Masked Rider Ryuki",
+        "thoi_luong": "24 phút",
+        "season": "1",
+        "description": "<p>Kamen Rider Ryuki (仮面ライダー龍騎 Kamen Raidā Ryūki, Giả diện Rider Long Kị) l&agrave; một series phim truyền h&igrave;nh Tokusatsu Nhật Bản. Đ&acirc;y l&agrave; phần thứ 12 trong loạt phim Kamen Rider Series v&agrave; l&agrave; sự hợp t&aacute;c chung giữa c&ocirc;ng ty Toei v&agrave; Ishimori Production. Loạt phim được tr&igrave;nh chiếu tr&ecirc;n TV Asahi từ ng&agrave;y 3 th&aacute;ng 2 năm 2002 đến ng&agrave;y 19 th&aacute;ng 1 năm 2003. Khẩu hiệu của loạt phim l&agrave; &quot;Nếu kh&ocirc;ng chiến đấu bạn sẽ kh&ocirc;ng tồn tại!!&quot; (戦わなければ、生き残れない!! Tatakawanakereba, ikinokorenai!!?). V&agrave;o năm 2009, h&atilde;ng Adness đ&atilde; mua bản quyền loạt phim n&agrave;y v&agrave; chuyển thể th&agrave;nh một loạt phim của Mỹ với t&ecirc;n gọi Kamen Rider Dragon Knight v&agrave; cũng l&agrave; loạt phim Kamen Rider thứ hai của h&atilde;ng Saban, sau Saban&#39;s Masked Rider v&agrave;o năm 1996<\/p>",
+        "trailer": "E6HSHOxkvAg",
+        "tags": "Kamen Rider Ryuki, Masked Rider Ryuki, HIệp sĩ mặt nạ Ryuki",
+        "slug": "kamen-rider-ryuki",
+        "resolution": 0,
+        "phude": 0,
+        "sotap": 50,
+        "status": 1,
+        "image": "MV5BMDVlZDhmNDktNTVkYy00MTdmLTk0ZjAtYmRkMTgwYzViZDBkXkEyXkFqcGdeQXVyMjU0ODQ5NTA@779.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2024-06-14 21:33:31",
+        "ngay_cap_nhat": "2024-06-15 00:32:29",
+        "year": "2002",
+        "category_id": 16,
+        "thuocphim": "phimbo",
+        "genre_id": 3,
+        "country_id": 13,
+        "episode_count": 1,
+        "category": {
+            "id": 16,
+            "title": "Phim Hành Động",
+            "description": "Phim hành động là một thể loại phim tập trung vào các tình tiết hành động gay cấn và mạo hiểm.",
+            "status": 1,
+            "slug": "phim-hanh-dong"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 132,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 132,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 131,
+        "title": "YÊU EM TỪ CÁI NHÌN ĐẦU TIÊN",
+        "name_eng": "Love 020",
+        "thoi_luong": "45 phút \/ tập",
+        "season": "0",
+        "description": "Bộ phim bắt đầu từ một câu chuyện tình yêu trên mạng. Sau khi “ly hôn” (trong trò chơi) với Chân Thủy Vô Hương – một cao thủ của game Thiện Nữ U Hồn, Bối Vy Vy – hoa khôi khoa Công nghệ thông tin trường Đại học nổi tiếng A với nickname là Lô Vĩ Vy Vy đã “tái hôn” với Đại thần Nhất Tiếu Nại Hà – đệ nhất cao thủ trong game. Không ngờ khi hai người quyết định gặp mặt nhau ngoài đời, đệ nhất cao thủ Nhất Tiếu Nại Hà lại là Tiêu Nại – chàng trai đẳng cấp cao nhất của trường đại học A mà biết bao cô gái ngưỡng mộ yêu thầm. Từ đó Vy Vy và Tiêu Nại bắt đầu một chuyện tình ngoài đời, không chỉ là cuộc “hôn nhân ảo trong game”. Từ khi quen biết đến khi yêu nhau, chuyện tình cảm của hai người không hề có thăng trầm sóng gió, chỉ tích lũy lại từng chút từng chút một, nhưng thấm sâu vào tận đáy lòng.",
+        "trailer": "NJMMHzL5jZA",
+        "tags": "Yêu em từ cái nhìn đầu tiên, Just One Slight Smile is Very Alluring, phim bộ, phim tình cảm",
+        "slug": "yeu-em-tu-cai-nhin-dau-tien",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 30,
+        "status": 1,
+        "image": "z6c64zmy_vertical-thumbnail-yeuemtucainhindautien462.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-28 02:27:39",
+        "ngay_cap_nhat": "2023-06-28 02:27:39",
+        "year": "2016",
+        "category_id": 17,
+        "thuocphim": "phimbo",
+        "genre_id": 1,
+        "country_id": 9,
+        "episode_count": 4,
+        "category": {
+            "id": 17,
+            "title": "Phim Tình Cảm",
+            "description": "Phim tình cảm xoay quanh các câu chuyện về tình yêu, lãng mạn, đau khổ, và tình huống tâm lý giữa các nhân vật chính.",
+            "status": 1,
+            "slug": "phim-tinh-cam"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 131,
+                    "genre_id": 19
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 130,
+        "title": "MẬT DANH K2",
+        "name_eng": "The K2 (2016)",
+        "thoi_luong": "60 phút \/ tập",
+        "season": "0",
+        "description": "Mật Danh K2 kể về Ji Chang Wook sẽ vào vai một vệ sĩ có nhiệm vụ bảo bệ bí mật. Thế nhưng anh lại bị đất nước và đồng nghiệp bỏ rơi, anh đã lợi dụng cô con gái bí mật của tổng thống để trả thù lại những người đã phản bội anh. Thế nhưng liệu có đúng hay không đối với cô chỉ có thuần túy \"sự lợi dụng\" hay sẽ còn tồn tại thứ tình cảm nào khác nữa?",
+        "trailer": "fC9vxwFkuVo",
+        "tags": "Mật Danh K2, phim hành động",
+        "slug": "mat-danh-k2",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 16,
+        "status": 1,
+        "image": "The_K2_poster226.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-28 02:17:46",
+        "ngay_cap_nhat": "2023-06-28 02:17:46",
+        "year": "2016",
+        "category_id": 16,
+        "thuocphim": "phimbo",
+        "genre_id": 3,
+        "country_id": 12,
+        "episode_count": 0,
+        "category": {
+            "id": 16,
+            "title": "Phim Hành Động",
+            "description": "Phim hành động là một thể loại phim tập trung vào các tình tiết hành động gay cấn và mạo hiểm.",
+            "status": 1,
+            "slug": "phim-hanh-dong"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 130,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 130,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 129,
+        "title": "300 CHIẾN BINH: ĐẾ CHẾ TRỖI DẬY",
+        "name_eng": "300: Rise of an Empire (2014)",
+        "thoi_luong": "102 phút",
+        "season": "0",
+        "description": "Sau chiến thắng trước 300 của Leonidas, Quân đội Ba Tư theo lệnh của Xerxes diễu hành đối với các quốc gia thành phố Hy Lạp lớn. Thành phố Dân chủ Athens, đầu tiên trên con đường của Quân đội Xerxes, dựa trên sức mạnh của nó trên hạm đội của mình, được dẫn dắt bởi Đô đốc Themistocles. Themistocles buộc phải có một liên minh không muốn với đối thủ truyền thống của Athens, Sparta colaorchic có thể nằm với đội quân bộ binh cấp trên. Nhưng Xerxes vẫn ngự trị tối cao về số lượng trên biển và đất.",
+        "trailer": "2zqy21Z29ps",
+        "tags": "300: Rise of an Empire, Đế chế trỗi dậy, phim thần thoại",
+        "slug": "300-chien-binh-de-che-troi-day",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "poster-300-rise-of-an-empire05177.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 17:26:38",
+        "ngay_cap_nhat": "2023-06-27 17:26:38",
+        "year": "2014",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 1,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 22,
+                "title": "Kiếm Hiệp",
+                "description": "Phim Kiếm Hiệp",
+                "status": 1,
+                "slug": "kiem-hiep",
+                "pivot": {
+                    "movie_id": 129,
+                    "genre_id": 22
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 129,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 129,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 128,
+        "title": "HERCULES",
+        "name_eng": "Hercules (2014)",
+        "thoi_luong": "100 phút",
+        "season": "0",
+        "description": "Hercules bị ám ảnh bởi một tội lỗi đã gây ra trong quá khứ, Hercules giờ đây trở thành một “tay lính đánh thuê” và cùng với năm bạn đồng hành trung thành, anh phiêu lưu khắp Hy Lạp, bán sức mạnh của mình để đổi lấy vàng và dùng danh tiếng lẫy lừng khiến kẻ thù khiếp sợ. Nhưng khi vị vua nhân từ của xứ Thrace và cháu gái ông nhờ đến sự giúp đỡ của Hercules để đánh bại một tên chúa tể tàn bạo khát máu, anh nhận ra rằng một khi thực thi công lý và giành lấy vinh quang, anh sẽ trở lại thành người anh hùng năm xưa, trở lại thành Hercules trong thần thoại.",
+        "trailer": "OwlynHlZEc4",
+        "tags": "Hercules, Phim thần thoại Hy Lạp, Phim thần thoại, Dwayne Johnson",
+        "slug": "hercules",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "MV5BMTQ4ODA5MTA4OF5BMl5BanBnXkFtZTgwNjMyODM5MTE@518.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 17:22:57",
+        "ngay_cap_nhat": "2023-06-27 17:22:57",
+        "year": "2014",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 128,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 128,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 127,
+        "title": "PERCY JACKSON & KẺ CẮP TIA CHỚP",
+        "name_eng": "Percy Jackson & the Olympians: The Lightning Thief",
+        "thoi_luong": "120 phút",
+        "season": "0",
+        "description": "Khi tia sét của anh ta bị đánh cắp, Zeus buộc tội con trai của Poseidon Percy Jackson và đưa cho con trai của Poseidon mười bốn ngày để trả lại, nếu không anh ta sẽ bắt đầu một cuộc chiến giữa các vị thần. Trong khi đó, thiếu niên, Percy, chứng khó đọc và có ADHD đang đến thăm Bảo tàng Metropolitan of Art và bị Fury ngụy trang tấn công trong giáo viên của mình. Grover người bạn tốt nhất về mặt vật lý của anh ta cho thấy Percy là một Demigod và anh ta là người bảo vệ và giáo viên của ông Mr Brunner cho anh ta một cây bút nói với anh ta rằng đó là một vũ khí mạnh mẽ. Họ đến nhà của Percy và cùng với mẹ Sally họ lái xe đến một nửa máu trại. Tuy nhiên, Sally bị tấn công bởi một minotaur và biến mất trước khi Percy có thể giúp đỡ cô. Trong trại, Percy kết bạn với Annabeth tuyệt đẹp; Khi chúng bị Hades tấn công, những người muốn ánh sáng cho chính mình, Percy phát hiện ra rằng mẹ anh đang ở trong thế giới ngầm với Hades. Percy quyết định đi du lịch trong một nhiệm vụ nguy hiểm để lấy lại tia sét và cứu mẹ mình. Grover và Annabeth tham gia cùng anh ta và Luke đưa ra một lá chắn mạnh mẽ của riêng mình để bảo vệ Percy. Họ sẽ có thể thành công?",
+        "trailer": "R86InkfdboA",
+        "tags": "Percy Jackson, thần Zeus, Percy Jackson & Kẻ Cắp Tia Chớp, Percy Jackson & the Olympians: The Lightning Thief, phim thần thoại",
+        "slug": "percy-jackson-ke-cap-tia-chop",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "MV5BMTQ5NDlmZWUtMjIyMC00NzQ3LTg3OWYtMzRkY2FiNzQ0Njc4XkEyXkFqcGdeQXVyNDQ2MTMzODA@131.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 17:19:31",
+        "ngay_cap_nhat": "2023-06-27 17:19:31",
+        "year": "2010",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 127,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 127,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 126,
+        "title": "CHIẾN BINH BẤT TỬ",
+        "name_eng": "Immortals (2011)",
+        "thoi_luong": "110 phút",
+        "season": "0",
+        "description": "Vua Hyperion khát máu muốn tìm cây cung Epirus, vũ khí được tạo ra bởi thần chiến tranh Ares, để giải phóng các Titan và trả thù những vị thần trên đỉnh Olympus vì đã bỏ mặc vợ con mình chết. Theo luật lệ cổ xưa, các thần không được phép can thiệp vào cuộc chiến của con người. Chính vì vậy, chàng dũng sĩ trẻ tuổi Theseus đã được thần Zeus lựa chọn trở thành người lãnh đạo cuộc chiến chống lại Hyperion và đội quân tàn ác của ông ta.",
+        "trailer": "pE3yR8bZ1pY",
+        "tags": "Vua Hyperio, thần Zeus, Theseus, Immortals, Chiến binh bất tử, phim thần thoại",
+        "slug": "chien-binh-bat-tu",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "5bduzgmq_660x946-chienbinhbattu691.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 17:15:13",
+        "ngay_cap_nhat": "2023-06-27 17:15:13",
+        "year": "2011",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 24,
+                "title": "Cổ Trang",
+                "description": "Phim Cổ Trang",
+                "status": 1,
+                "slug": "co-trang",
+                "pivot": {
+                    "movie_id": 126,
+                    "genre_id": 24
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 126,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 126,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 125,
+        "title": "CUỘC CHIẾN THÀNH TROY",
+        "name_eng": "Troy (2004)",
+        "thoi_luong": "196 phút",
+        "season": "0",
+        "description": "Chiến tranh với những khát khao quyền lực và vinh quang bùng nổ. Biết bao thường dân bỏ mạng vì tham vọng của một người. Cả dân tộc lầm than, cả vương quốc bị xóa sổ chỉ vì một bóng hồng. Tác phẩm không chỉ là cuộc chiến giữa hai vương quốc mà xen vào đó là tình yêu cao đẹp giữa các nhân vật chính",
+        "trailer": "u1fqmZuvSBk",
+        "tags": "Chiến tranh, phim thần thoại, Troy, cuộc chiến thành Troy",
+        "slug": "cuoc-chien-thanh-troy",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "Troy2004Poster230.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 17:08:20",
+        "ngay_cap_nhat": "2023-06-27 17:08:20",
+        "year": "2004",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 125,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 125,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 125,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 124,
+        "title": "GÓC QUAY ĐẪM MÁU",
+        "name_eng": "REC (2007)",
+        "thoi_luong": "78 phút",
+        "season": "1",
+        "description": "Phim được bắt đầu bằng việc hai phóng viên theo chân một lính cứu hỏa để làm phóng sự về công việc gác đêm. Nhưng rồi họ bị kẹt lại tại một khu chung cư mà ở đó, người dân bị nhiễm căn bệnh dại luôn thèm khát máu tươi. Khu chung cư nhanh chóng trở thành mồ chôn sống của hai phóng viên nọ. Khán giả được theo dõi câu chuyện của họ thông qua những hình ảnh trong một chiếc camera cầm tay",
+        "trailer": "CcW7jLYKxAQ",
+        "tags": "REC, góc quay đẫm máu, phim kinh dị",
+        "slug": "goc-quay-dam-mau",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "MV5BZTJmNTZlZWUtZTQ2Yi00YTFjLWFiNzctYzFlNmZmZGMzYTlmXkEyXkFqcGdeQXVyMjQ2MTk1OTE@220.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:38:10",
+        "ngay_cap_nhat": "2023-06-27 16:38:10",
+        "year": "2007",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 124,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 123,
+        "title": "CÂU CHUYỆN HAI CHỊ EM",
+        "name_eng": "A Tale of Two Sisters (2003)",
+        "thoi_luong": "115 phút",
+        "season": "0",
+        "description": "Câu chuyện bắt đầu trong một bệnh viện tâm thần, vị bác sĩ đang nói chuyện với một cô gái trẻ có mái tóc xõa phủ ngang mặt. Ông đưa cho cô gái bức hình chụp gia đình cô, cố gắng thuyết phục cô gái kể về “ngày đó”.",
+        "trailer": "4YmCIp4qlGg",
+        "tags": "Câu chuyện hai chị em, A Tale of Two Sisters, phim kinh dị",
+        "slug": "cau-chuyen-hai-chi-em",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "l3exwhwyGE0NnHJ3lFQ7eXoBSkH853.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:34:11",
+        "ngay_cap_nhat": "2023-06-27 16:34:11",
+        "year": "2003",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 12,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 123,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 123,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 123,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 122,
+        "title": "VÒNG TRÒN ĐỊNH MỆNH",
+        "name_eng": "The Ring (2002)",
+        "thoi_luong": "115 phút",
+        "season": "0",
+        "description": "Rachel Keller là một nhà báo điều tra một băng video có thể đã giết chết bốn thanh thiếu niên (bao gồm cả cháu gái của cô). Có một huyền thoại đô thị về băng này: người xem sẽ chết bảy ngày sau khi xem nó. Nếu huyền thoại là chính xác, Rachel sẽ phải chạy ngược thời gian để cứu con trai mình và cuộc sống của chính mình.",
+        "trailer": "yzR2GY-ew8I",
+        "tags": "The Ring, Vòng tròn định mệnh, phim kinh dị",
+        "slug": "vong-tron-dinh-menh",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "6103FRxVLiL273.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:26:12",
+        "ngay_cap_nhat": "2023-06-27 16:26:12",
+        "year": "2002",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 122,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 122,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 121,
+        "title": "BUỔI THỬ GIỌNG",
+        "name_eng": "Audition (1999)",
+        "thoi_luong": "113 phút",
+        "season": "0",
+        "description": "Buổi Thử Giọng - Audition : Có cuộc sống khá đầy đủ và dư giả về vật chất nhưng Đạo diễn Shigeharu Aoyama lại thiếu thốn về tình cảm . Sau cái chết của vợ Shigeharu sống đơn thân nuôi con trong nhiều năm, ông quyết định đi tìm hạnh phúc cho mình bằng cách tổ chức một buổi thử giọng giả nhằm tìm kiếm diễn viên. Cuối cùng ông cũng tìm ra “ý trung nhân” là cô diễn viên múa xinh đẹp Asami Yamazaki. Nhưng ẩn sau khuôn mặt xinh đẹp là miền kí ức vỡ vụn và những hành động tàn bạo. Audition đã khai thác đời sống của người Nhật thông qua hình ảnh Đạo diễn Shigeharu Aoyama. Về mặt diễn xuất thật khó để có thể tìm ra điểm “-“ nào cho diễn xuất của bộ đôi Ryo Ishibashi và Eihi Shiina. Cảnh rùng rợn thì miễn bàn với Audition tính kinh dị đã được đẩy tới mức cực điểm.",
+        "trailer": "EBQHp2__AVQ",
+        "tags": "Buổi Thử Giọng, Audition, phim kinh dị",
+        "slug": "buoi-thu-giong",
+        "resolution": 0,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "Audition-JPEG-scaled496.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:23:07",
+        "ngay_cap_nhat": "2023-06-27 16:23:07",
+        "year": "1999",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 13,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 121,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 120,
+        "title": "NGÔI NHÀ MA",
+        "name_eng": "The Shining (1980)",
+        "thoi_luong": "144 phút",
+        "season": "0",
+        "description": "Jack Torrance tìm việc trông coi khách sạn Overlook, trên dãy núi Colorado và cả gia đình ông đã chuyển tới sống ở đây. Do nơi này bị đóng cửa trong suốt mùa đông, vì thế chỉ có gia đình của Jack Torrance sống ở đây trong một thời gian dài. Sau đó, một cơn bão tuyết ập xuống và khiến gia đình ông bị kẹt lại bên trong khách sạn. Danny – con trai của Torrance, một cậu bé có khả năng thần giao cách cảm và có thể nhìn thấy những việc trong quá khứ cũng như trong tương lai. Cậu bé phát hiện ra rằng rằng khách sạn này đang bị ma ám và hồn ma đó đang dần biến cha của cậu thành một kẻ hung ác",
+        "trailer": "S014oGZiSdI",
+        "tags": "Ngôi nhà ma, The Shining, phim kinh dị",
+        "slug": "ngoi-nha-ma",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@197.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:19:10",
+        "ngay_cap_nhat": "2023-06-27 16:19:10",
+        "year": "1980",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 120,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 120,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 119,
+        "title": "ĐIỀM GỞ",
+        "name_eng": "Sinister (2012)",
+        "thoi_luong": "110 phút",
+        "season": "0",
+        "description": "Sinister kể về một gia đình nhà văn chuyên viết về các vấn đề bạo lực và tội phạm vừa chuyển đến một căn nhà mới, tất cả đều bình thường cho đến khi ông tìm thấy một hộp phim nằm trên gác và xem đoạn phim rất khiếp sợ liên quan đến căn nhà ông đang ở. Cả gia đình cũ sống trong căn nhà này đều bị giết một cách dã man và sau đó thì những điều kỳ lạ mang tính siêu nhiên cũng bắt đầu xảy ra từ đây",
+        "trailer": "_kbQAJR9YWQ",
+        "tags": "Sinister, phim kinh dị",
+        "slug": "diem-go",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "51j4ErL23fL566.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:15:43",
+        "ngay_cap_nhat": "2023-06-27 16:15:43",
+        "year": "2012",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 119,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 119,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 118,
+        "title": "MINIONS",
+        "name_eng": "Minions (2015)",
+        "thoi_luong": "90 phút",
+        "season": "0",
+        "description": "Phần tiền truyện này xoay quanh câu chuyện về lịch sử phụng sự ác nhân của các tay sai màu vàng chuối có ngôn ngữ nhí nhéo từ “Kẻ trộm mặt trăng”.",
+        "trailer": "eisKxhjBnZ0",
+        "tags": "Minions, Kẻ cắp mặt trăng, phim hoạt hình",
+        "slug": "minions",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "77378ff26cc6707fbe5a97e331771258119.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 16:00:48",
+        "ngay_cap_nhat": "2023-06-27 16:00:48",
+        "year": "2015",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 118,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 118,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 118,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 118,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 117,
+        "title": "KỶ BĂNG HÀ 3: KHỦNG LONG THỨC GIẤC",
+        "name_eng": "Ice Age: Dawn of the Dinosaurs",
+        "thoi_luong": "94 phút",
+        "season": "3",
+        "description": "Sau những sự kiện của \"Ice Age: The Meltdown\", cuộc sống bắt đầu thay đổi cho Manny và bạn bè của anh ta: Scrat vẫn đang săn lùng một quả trứng cá yêu của anh ta, trong khi tìm thấy một sự lãng mạn có thể trong một con sóc có răng có tên là Scratte. Manny và Ellie, kể từ khi trở thành một món đồ, đang mong đợi một em bé, khiến Manny lo lắng để đảm bảo rằng mọi thứ đều hoàn hảo khi bé đến. Diego đã chán ngấy với việc được đối xử như một con mèo nhà và suy ngẫm quan niệm rằng anh ta đang trở nên quá thoải mái. Sid bắt đầu mong muốn một gia đình của riêng mình, và vì vậy đánh cắp một số trứng khủng long dẫn đến Sid kết thúc trong một thế giới ngầm kỳ lạ nơi đàn anh ta phải giải cứu anh ta, trong khi né tránh khủng long và đối diện với nguy hiểm bên trái và phải, và gặp gỡ Weasel một mắt được gọi là Buck Who săn khủng long.",
+        "trailer": "MnAi5u-k9NY",
+        "tags": "Ice Age: Dawn of the Dinosaurs, Ice Age, Kỷ băng hà, phim hoạt hình",
+        "slug": "ky-bang-ha-3-khung-long-thuc-giac",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "cXOLaxcNjNAYmEx1trZxOTKhK3Q329.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 15:55:46",
+        "ngay_cap_nhat": "2023-06-27 15:55:46",
+        "year": "2009",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 117,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 117,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 117,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 117,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 116,
+        "title": "KẺ CẮP MẶT TRĂNG",
+        "name_eng": "Despicable Me",
+        "thoi_luong": "97 phút",
+        "season": "1",
+        "description": "Nhân vật tâm điểm của bộ phim là Gru, một tên tội phạm khét tiếng. Gru và đám tay chân robot tí hon chuyên đi đánh cắp những biểu tượng nổi tiếng của thế giới. Thế nhưng tiếng xấu của Gru bị suy giảm khi tên tội phạm trẻ tuổi Vector đã ăn cắp kim tự tháp của Ai Cập. Gru quyết định làm phi vụ có một không hai cho thế giới phải bái phục: ăn cắp mặt trăng. Trước tiên, Gru phải đánh cắp khẩu súng có khả năng thu nhỏ mọi vật từ quân đội. Nhưng Vector đã nẫng tay trên khẩu súng thần kỳ từ Gru. Mọi kế hoạch giành lại cây súng của Gru đều bị Vector đánh bại. Cuối cùng, Gru nghĩ ra cách dùng ba đứa trẻ của viện mồ côi xâm nhập sào huyệt của Vector. Thế nhưng ba đứa trẻ Margo, Edith, Agnes đã cảm hóa Gru bằng sự ngây thơ, hướng thiện của mình.",
+        "trailer": "zzCZ1W_CUoI",
+        "tags": "Despicable Me, Kẻ cắp mặt trăng, phim hoạt hình",
+        "slug": "ke-cap-mat-trang",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "bRZT3dAv85TWLmQj4fhQg06W07D627.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 15:50:41",
+        "ngay_cap_nhat": "2023-06-27 15:50:41",
+        "year": "2013",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 116,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 116,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 116,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 116,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 115,
+        "title": "NỮ HOÀNG BĂNG GIÁ",
+        "name_eng": "Frozen (2013)",
+        "thoi_luong": "102 phút",
+        "season": "0",
+        "description": "Frozen không chỉ giành được các giải thưởng lớn như Oscar, Quả Cầu Vàng mà còn là phim đạt doanh thu cao nhất mọi thời đại. Đến nay, Frozen đã thu về hơn 1,3 tỷ USD.\r\nPhim phát hành năm 2013, xây dựng dựa trên câu chuyện cổ tích Bà Chúa Tuyết (The Snow Queen) của nhà văn Đan Mạch - Hans Christian Andersen. Frozen là hành trình của hàng công chúa Anna gan dạ, cố gắng đi tìm chị gái Elsa. Elsa có khả năng điều khiển gió, tuyết nhưng không kiểm soát được sức mạnh của mình và sợ làm ảnh hưởng tới những người cô yêu quý nên đã bỏ đi xa.",
+        "trailer": "TbQm5doF_Uc",
+        "tags": "Frozen (2013), Nữ hoàng băng giá, phim hoạt hình",
+        "slug": "nu-hoang-bang-gia",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "frozen-group-i20838589.jpg",
+        "phim_hot": 0,
+        "topview": 1,
+        "ngay_tao": "2023-06-27 15:45:52",
+        "ngay_cap_nhat": "2023-06-27 15:45:52",
+        "year": "2013",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 115,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 115,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 115,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 114,
+        "title": "BÍ KÍP LUYỆN RỒNG",
+        "name_eng": "How to Train Your Dragon (2010)",
+        "thoi_luong": "98 phút",
+        "season": "1",
+        "description": "Bí Kíp Luyện Rồng lấy bối cảnh là một thế giới thần thoại của người Viking và loài rồng. Câu chuyện xoay quanh cậu bé Hiccup, sống tại đảo Berk. Khi Hiccup được tham gia vào khóa huấn luyện rồng với những cậu bé cùng trang lứa, cậu coi đây là cơ hội để chứng minh rằng mình đã trưởng thành và là một chiến binh thật sự. Cậu đã giải thoát và kết bạn với một chú rồng và đặt chú tên Toothless. Mối quan hệ này đã thay đổi hoàn toàn cuộc sống của cậu khi cậu đấu tranh để thuyết phục cả bộ tộc mình rằng việc giết rồng là không cần thiết…",
+        "trailer": "Siqw8k05D4g",
+        "tags": "Bí Kíp Luyện Rồng, How to Train Your Dragon, phim hoạt hình",
+        "slug": "bi-kip-luyen-rong",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "z4467867.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-27 15:33:57",
+        "ngay_cap_nhat": "2023-06-27 15:33:57",
+        "year": "2010",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 114,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 114,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 114,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 113,
+        "title": "RAYA VÀ RỒNG THẦN CUỐI CÙNG",
+        "name_eng": "Raya and the Last Dragon",
+        "thoi_luong": "114 phút",
+        "season": "0",
+        "description": "Raya và Rồng Thần Cuối Cùng kể về một vương quốc huyền bí có tên là Kumandra – vùng đất mà loài rồng và con người sống hòa thuận với nhau. Nhưng rồi một thế lực đen tối bỗng đe dọa bình yên nơi đây, loài rồng buộc phải hi sinh để cứu lấy loài người. 500 năm sau, thế lực ấy bỗng trỗi dậy và một lần nữa, Raya là chiến binh duy nhất mang trong mình trọng trách đi tìm Rồng Thần cuối cùng trong truyền thuyết nhằm hàn gắn lại khối ngọc đã vỡ để cứu lấy vương quốc. Thông qua cuộc hành trình, Raya nhận ra loài người cần nhiều hơn những gì họ nghĩ, đó chính là lòng tin và sự đoàn kết.",
+        "trailer": "1VIZ89FEjYI",
+        "tags": "Raya và Rồng Thần Cuối Cùng, Raya and the Last Dragon, dragon, phim họat hình",
+        "slug": "raya-va-rong-than-cuoi-cung",
+        "resolution": 4,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "Raya866.jpg",
+        "phim_hot": 0,
+        "topview": 0,
+        "ngay_tao": "2023-06-27 13:57:37",
+        "ngay_cap_nhat": "2023-06-27 14:13:29",
+        "year": "2021",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 113,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 113,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 113,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 112,
+        "title": "THẦN THOẠI",
+        "name_eng": "The Myth (2005)",
+        "thoi_luong": "100 phút",
+        "season": "0",
+        "description": "Jack và William là các nhà khảo cổ học phát hiện ra khu lăng mộ cổ từ thời nhà Tần cách nay hơn hai thiên niên kỷ. Tại đây Jack đã gặp một cô công chúa xinh đẹp, cũng chính là cô gái mặc áo trắng luôn ám ảnh trong tâm trí anh nhưng anh không nhớ nổi đó là ai.",
+        "trailer": "vo7dZWm-zAs",
+        "tags": "Thần thoại, phim thần thoại, phim cổ trang",
+        "slug": "than-thoai",
+        "resolution": 0,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "MV5BN2EyZjFlZDEtZWIxMy00Yjk5LWE2ZWQtNGVmZTVkNjYxZDA1XkEyXkFqcGdeQXVyNzI1NzMxNzM@43.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 17:17:51",
+        "ngay_cap_nhat": "2023-06-27 13:04:12",
+        "year": "2005",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 10,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 112,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 22,
+                "title": "Kiếm Hiệp",
+                "description": "Phim Kiếm Hiệp",
+                "status": 1,
+                "slug": "kiem-hiep",
+                "pivot": {
+                    "movie_id": 112,
+                    "genre_id": 22
+                }
+            },
+            {
+                "id": 24,
+                "title": "Cổ Trang",
+                "description": "Phim Cổ Trang",
+                "status": 1,
+                "slug": "co-trang",
+                "pivot": {
+                    "movie_id": 112,
+                    "genre_id": 24
+                }
+            },
+            {
+                "id": 30,
+                "title": "Võ Thuật",
+                "description": "Phim Võ Thuật",
+                "status": 1,
+                "slug": "vo-thuat",
+                "pivot": {
+                    "movie_id": 112,
+                    "genre_id": 30
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 112,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 10,
+            "title": "Trung Quốc",
+            "description": "Phim Trung Quốc",
+            "status": 1,
+            "slug": "trung-quoc"
+        }
+    },
+    {
+        "id": 111,
+        "title": "SỰ PHẪN NỘ CỦA CÁC VỊ THẦN",
+        "name_eng": "Wrath Of The Titans (2012)",
+        "thoi_luong": "100 phút",
+        "season": "0",
+        "description": "Một thập kỷ đã trôi qua diễn ra từ thành tích quang đãng vinh trước Kraken, Perseus (Sam Worthington) - vị á thần, con trai của thần Zeus (Liam Neeson) - trở về sống thăng bình tại một làng chài. Anh và thần Io có một cậu con trai 10 tuổi tên là Helius. Tuy nhiên, Perseus không biết rằng, một cuộc tranh chấp quyền lực giữa các vị thần đang đe dọa cuộc sống thăng bình đó của anh.",
+        "trailer": "QHSIIDezcHg",
+        "tags": "Wrath of The Titans, thần Zeus, sự phẫn nộ của các vị thần, phim thần thoại, phim hành động",
+        "slug": "su-phan-no-cua-cac-vi-than",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "su-phan-no-cua-cac-vi-than-thumb401.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 17:14:40",
+        "ngay_cap_nhat": "2023-06-27 13:04:42",
+        "year": "2012",
+        "category_id": 22,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 22,
+            "title": "Phim Thần Thoại",
+            "description": "Phim thần thoại là một thể loại phim tập trung vào việc tái hiện hoặc chuyển thể các câu chuyện, truyền thuyết và huyền thoại từ thần thoại của các văn hóa và tôn giáo khác nhau.",
+            "status": 1,
+            "slug": "phim-than-thoai"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 111,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 111,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 111,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 110,
+        "title": "1990",
+        "name_eng": "1990 (2021)",
+        "thoi_luong": "130 phút",
+        "season": "0",
+        "description": "Cùng chạm ngưỡng 30 tuổi, nhưng 3 cô nàng với 3 cá tính riêng lại có những sự lựa chọn khác nhau. Và không tránh khỏi rắc rối, họ đều gặp ‘sóng gió’ liên quan đến gia đình – tình yêu – sự nghiệp.. Nhưng trên cả tình bạn – họ chính là tri kỷ, cùng nhân ba niềm hân hoan và san sẻ khó khăn với nhau. Vậy chờ đón xem, 3 cô nàng sẽ ‘cùng nhau’ vượt qua như thế nào trong bộ phim 1990.",
+        "trailer": "0509zlM8QA8",
+        "tags": "1990, Ninh Dương Lan Ngọc, Diễm My 9x, Nhã Phương, phim tình cảm",
+        "slug": "1990",
+        "resolution": 4,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "rsz_1990_-_teaser_poster_2_-_kc_21042021385.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 17:09:39",
+        "ngay_cap_nhat": "2023-06-27 13:05:05",
+        "year": "2021",
+        "category_id": 17,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 8,
+        "episode_count": 0,
+        "category": {
+            "id": 17,
+            "title": "Phim Tình Cảm",
+            "description": "Phim tình cảm xoay quanh các câu chuyện về tình yêu, lãng mạn, đau khổ, và tình huống tâm lý giữa các nhân vật chính.",
+            "status": 1,
+            "slug": "phim-tinh-cam"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 110,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 110,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 110,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 8,
+            "title": "Việt Nam",
+            "description": "Phim Việt Nam",
+            "status": 1,
+            "slug": "viet-nam"
+        }
+    },
+    {
+        "id": 109,
+        "title": "QUÁI VẬT VENOM",
+        "name_eng": "Venom (2018)",
+        "thoi_luong": "112 phút",
+        "season": "1",
+        "description": "Venom đã hé lộ thân phận nhân vật phản diện cực kỳ nguy hiểm và kinh hãi khi tung trailer chính thức khắp thế giới làm điên đảo fan hâm mộ trong thế giới của Marvel. Chàng phóng viên Eddie Brock bí mật theo dõi âm mưu xấu xa của một tổ chức và bị nhiễm phải Symbiote và trở thành quái vật Venom đầy nguy hiểm.",
+        "trailer": "MgYoCY86Hoc",
+        "tags": "Quái Vật Venom, Venom, phim hành động, phim kinh dị, phim hài hước",
+        "slug": "quai-vat-venom",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "z4464992968323_e39cc319adb6d42a1a6d989063eec00c115.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 17:00:30",
+        "ngay_cap_nhat": "2023-06-27 13:05:28",
+        "year": "2018",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 109,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 109,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 109,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 109,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 108,
+        "title": "THE FLASH",
+        "name_eng": "The Flash (2023)",
+        "thoi_luong": "144 phút",
+        "season": "0",
+        "description": "Trong phần này vào dịp hè sẽ ra mắt cho khán giả một siêu phẩm về tia chớp, chắc có lẽ ai cũng biết vị siêu anh hùng The Flash sở hữu năng lực hơn người vượt trội nhờ khả năng di chuyển nhanh như 1 tia sét đánh, thế giới sẽ buộc phải va chạm khốc liệt trước bước chạy của Flash.",
+        "trailer": "cvn0h6cuUPQ",
+        "tags": "The flash, phim hành động",
+        "slug": "the-flash",
+        "resolution": 5,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "The_Flash_2023_VN_poster863.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 16:55:00",
+        "ngay_cap_nhat": "2023-06-27 13:05:43",
+        "year": "2023",
+        "category_id": 16,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 16,
+            "title": "Phim Hành Động",
+            "description": "Phim hành động là một thể loại phim tập trung vào các tình tiết hành động gay cấn và mạo hiểm.",
+            "status": 1,
+            "slug": "phim-hanh-dong"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 108,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 108,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 108,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 107,
+        "title": "SÁT THỦ JOHN WICK 4",
+        "name_eng": "John Wick: Chapter 4 (2023)",
+        "thoi_luong": "169 phút",
+        "season": "4",
+        "description": "Sát Thủ John Wick: Phần 4 là câu chuyện của John Wick (Keanu Reeves) đã khám phá ra con đường để đánh bại High Table. Nhưng trước khi có thể kiếm được tự do, Wick phải đối đầu với kẻ thù mới với những liên minh hùng mạnh trên toàn cầu và những lực lượng biến những người bạn cũ thành kẻ thù.",
+        "trailer": "1C8Kzp0VSXM",
+        "tags": "Sát thủ, Sát thủ John Wick, John Wick 4, phim hành động",
+        "slug": "sat-thu-john-wick-4",
+        "resolution": 5,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "z4464961886980_775873a2918f767158a7006625dcdb51354.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 16:50:46",
+        "ngay_cap_nhat": "2023-06-27 13:05:59",
+        "year": "2023",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 107,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 107,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 106,
+        "title": "BỖNG DƯNG TRÚNG SỐ",
+        "name_eng": "6\/45",
+        "thoi_luong": "113 phút",
+        "season": "0",
+        "description": "Bỗng nhiên trúng số – 6\/45, người chiến sĩ xứ sở kim chi chun woo thuận lợi đạt được tờ vé số trúng độc đắc, tuy nhiên chưa kịp hân hoan bao nhiêu thời gian thì tờ vé số lại bay sang định giới triều tiên và được một ai đó lính tên yong ho nhặt được. Và rồi nhiều điều lại càng phức tạp hơn lúc có thêm dòng người khác biết về tờ vé số trúng độc đắc này.",
+        "trailer": "yeMf-Dva5r0",
+        "tags": "6\/45, bỗng dưng trúng số, phim hài hước",
+        "slug": "bong-dung-trung-so",
+        "resolution": 4,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "bong-dung-trung-so-poster503.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 16:46:04",
+        "ngay_cap_nhat": "2023-06-27 13:06:17",
+        "year": "2022",
+        "category_id": 18,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 12,
+        "episode_count": 0,
+        "category": {
+            "id": 18,
+            "title": "Phim Hài Kịch",
+            "description": "Phim hài kịch thường kết hợp giữa yếu tố hài hước và yếu tố kịch tính để tạo nên các tình huống hài hước và sự hiếu khách.",
+            "status": 1,
+            "slug": "phim-hai-kich"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 106,
+                    "genre_id": 26
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 105,
+        "title": "MAX ĐIÊN: CON ĐƯỜNG TỬ THẦN",
+        "name_eng": "Mad Max: Fury Road (2015)",
+        "thoi_luong": "120 phút",
+        "season": "0",
+        "description": "Bối cảnh phim ở một nơi rất xa của trái đất, nơi ấy sa mạc bao phủ hầu hết bề mặt và hầu hết mọi người đều điên cuồng đấu tranh cho những nhu cầu của cuộc sống.\r\n\r\nTrong thế giới này tồn tại hai phiến quân đang chạy trốn những người được coi là có thể để khôi phục lại trật tự thế giới.\r\n\r\nTrong đó có Max, một người đàn ông của hành động và ít nói, đang tìm kiếm sự an tâm sau khi mất vợ và con của mình do hậu quả của sự hỗn loạn. Và Furiosa, một phụ nữ luôn hành động và tin rằng con đường của mình để tồn tại có thể đạt được nếu cô ấy có thể vượt sa mạc sở về quê hương yêu dấu.",
+        "trailer": "hEJnMQG9ev8",
+        "tags": "Mad Max: Fury Road, con đường tử thần, phim hành động",
+        "slug": "max-dien-con-duong-tu-than",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "3039536_Mad-Max-Furia-en-el-camino-Poster-Empeliculados707.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 16:41:39",
+        "ngay_cap_nhat": "2023-06-27 13:06:42",
+        "year": "2015",
+        "category_id": 16,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 16,
+            "title": "Phim Hành Động",
+            "description": "Phim hành động là một thể loại phim tập trung vào các tình tiết hành động gay cấn và mạo hiểm.",
+            "status": 1,
+            "slug": "phim-hanh-dong"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 105,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 105,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 104,
+        "title": "KỴ SỸ BÓNG ĐÊM",
+        "name_eng": "The Dark Knight (2008)",
+        "thoi_luong": "152 phút",
+        "season": "0",
+        "description": "The Dark Knight là phần tiếp theo của Batman Begins kể về thành phố Gotham bị đảo lộn do hàng loạt vụ giết người xảy ra mà không tìm ra hung thủ. Kẻ đứng sau tất cả âm mưu đen tối này là Joker (Heath Ledger), kẻ được các băng đảng trong thành phố thuê để trừ khử Người Dơi. Bộ 3 Người Dơi – Trung úy Gordon – Luật sư Harvey Dent vốn gắn bó với nhau chống lại các thế lực xấu nay bị chia rẽ.",
+        "trailer": "EXeTwQWrcwY",
+        "tags": "Kỵ sỹ bóng đêm, The Dark Knight, phim hành động",
+        "slug": "ky-sy-bong-dem",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "147071092877216-37af3fe7-038d-44c1-99c3-8b60f9db2573158.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 16:39:08",
+        "ngay_cap_nhat": "2023-06-27 13:06:59",
+        "year": "2008",
+        "category_id": 16,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 16,
+            "title": "Phim Hành Động",
+            "description": "Phim hành động là một thể loại phim tập trung vào các tình tiết hành động gay cấn và mạo hiểm.",
+            "status": 1,
+            "slug": "phim-hanh-dong"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 104,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 104,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 103,
+        "title": "SÁCH MA",
+        "name_eng": "The Babadook (2014)",
+        "thoi_luong": "94 phút",
+        "season": "0",
+        "description": "Amelia Vakan là một góa phụ gặp khó khăn và kiệt sức sống ở thành phố Adelaide của Úc, người đã một mình nuôi nấng cậu con trai Samuel 6 tuổi của mình. Người chồng quá cố của cô, Oskar, đã thiệt mạng trong một vụ tai nạn xe hơi xảy ra khi anh chở Amelia đến bệnh viện khi chuyển dạ. Sam bắt đầu thể hiện hành vi thất thường: anh ta trở thành một kẻ mất trí và bận tâm với một con quái vật tưởng tượng, mà anh ta đã chế tạo vũ khí để chiến đấu.",
+        "trailer": "k5WQZzDRVtw",
+        "tags": "Sách Ma, The Babadook, phim kinh dị",
+        "slug": "sach-ma",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "The-Babadook-elleman553.jpg",
+        "phim_hot": 1,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 15:58:11",
+        "ngay_cap_nhat": "2023-06-27 13:07:13",
+        "year": "2014",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 103,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 102,
+        "title": "BÚP BÊ MA ÁM",
+        "name_eng": "Annabelle (2014)",
+        "thoi_luong": "99 phút",
+        "season": "1",
+        "description": "Annabelle là câu chuyện về nguồn gốc của búp bê quỷ ám. Đi sâu vào bộ phim lần này Annabelle xuất hiện tại một gia đình vợ chồng trẻ. Món quà John tặng vợ mình nhân dịp sinh nhật và chuyển tói nhà mới chính là con búp bê Annabelle. Vào một đêm định mệnh, nhà của họ bị hai kẻ tâm thần đột nhập vào. Kể từ sau sự kiện kinh hoàng, nhiều hiện tượng kì quái bắt đầu xảy ra trong nhà và đều liên quan tới búp bê Annabelle.",
+        "trailer": "paFgQNPGlsg",
+        "tags": "Phim kinh dị, Búp bê ma ám, Annabelle",
+        "slug": "bup-be-ma-am",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "annabelle-1647500287841.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 15:53:41",
+        "ngay_cap_nhat": "2023-06-27 13:07:31",
+        "year": "2014",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 102,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 101,
+        "title": "AI CHẾT GIƠ TAY",
+        "name_eng": "The Young Shaman",
+        "thoi_luong": "30 phút \/ tập",
+        "season": "1",
+        "description": "Nhân vật Tinh Lâm – nhân vật chính có sự am hiểu nhất định về thế giới tâm linh vì có gia đình, tổ tiên theo nghiệp trị ma bao đời nay. Nhưng Tinh Lâm chỉ có thể tiêu trừ và giải thoát cho những linh hồn chứ không thể thấy được chúng và cũng có tính cách “khùng khùng” nên gặp rất nhiều khó khăn trong sự nghiệp tổ tiên để lại cho mình. Và rồi thật may mắn khi Tinh Lâm phát hiện ra Liên Thanh – một cô hàng xóm thường gây rắc rối lại chính là người bạn đồng hành trong sự nghiệp của mình.",
+        "trailer": "S8zj-kZPjzk",
+        "tags": "Ai chết giơ tay, The Young Shaman, phim kinh dị, phim hài hước",
+        "slug": "ai-chet-gio-tay",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 8,
+        "status": 1,
+        "image": "aichetgiotay-topsao-1601.jpg",
+        "phim_hot": 1,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 15:25:17",
+        "ngay_cap_nhat": "2023-06-27 14:45:08",
+        "year": "2018",
+        "category_id": 21,
+        "thuocphim": "phimbo",
+        "genre_id": 2,
+        "country_id": 8,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 101,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 101,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 101,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 101,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 8,
+            "title": "Việt Nam",
+            "description": "Phim Việt Nam",
+            "status": 1,
+            "slug": "viet-nam"
+        }
+    },
+    {
+        "id": 100,
+        "title": "VÙNG ĐẤT CÂM LẶNG",
+        "name_eng": "A Quiet Place",
+        "thoi_luong": "90 phút",
+        "season": "1",
+        "description": "Tách biệt khỏi phần còn lại của thế giới, một gia đình khăng khít nơm nớp lo sợ mình sẽ phát ra tiếng động thu hút những sinh vật ngoài hành tinh đáng sợ.",
+        "trailer": "WR7cc5t7tv8",
+        "tags": "A Quiet Place, Vùng đất câm lặng, phim kinh dị",
+        "slug": "vung-dat-cam-lang",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "BHD-Star-A-Quiet-Place-poster-470x700197.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 15:17:17",
+        "ngay_cap_nhat": "2023-06-27 13:08:08",
+        "year": "2018",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 100,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 99,
+        "title": "TRỐN THOÁT",
+        "name_eng": "Get Out",
+        "thoi_luong": "104 phút",
+        "season": "0",
+        "description": "Tâm điểm của Get Out là chàng thanh niên da đen Chris Washington (Daniel Kaluuya). Anh có cô bạn gái da trắng xinh đẹp tên Rose Armitage (Allison Williams). Sau vài tháng hẹn hò, Rose quyết định đưa bạn trai về nhà ra mắt. Chris đắn đo khi người bạn thân Rod (Lilrel Howery) can ngăn nhưng cuối cùng vẫn quyết định lên đường tới vùng ngoại ô để gặp nhà Armitage. Khác biệt về màu da làm Chris ngại ngần trước khi gặp mặt bố mẹ bạn gái. Trái với những e ngại ban đầu, anh thấy mình được chào đón với thái độ thân thiện không chỉ từ bố mẹ mà cả những người thân, bạn bè da trắng của Rose. Nhưng trong thâm tâm, chàng trai da màu vẫn cảm nhận được đằng sau những gương mặt vui vẻ này ẩn giấu một bí mật nào đó.",
+        "trailer": "DzfpyUB60YY",
+        "tags": "Trốn Thoát, Get Out, phim kinh dị",
+        "slug": "tron-thoat",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "Phim-Get-out-hinh-anh-1-e1638616670514834.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 15:13:04",
+        "ngay_cap_nhat": "2023-06-27 13:08:26",
+        "year": "2017",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 99,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 99,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 98,
+        "title": "ÁM ẢNH KINH HOÀNG 1",
+        "name_eng": "The Conjuring (2013)",
+        "thoi_luong": "112 phút",
+        "season": "1",
+        "description": "Phim Ám Ảnh Kinh Hoàng đưa chúng ta về năm 1971, phim kể về câu chuyện của Ed và Lorraine Warren là 1 trong những người chuyên điều tra về các hiện tượng siêu nhiên nổi tiếng vào thế kỉ 20. Bộ phim nói về 1 gia đình bị ma ám và liên tục bị khủng bố bởi 1 bóng ma kinh dị. Gia đình này đã cầu xin sự giúp đỡ từ cặp đôi Warren. Đây là nghề của họ nên Warren nhanh chóng nhận lời giúp đỡ. Tuy nhiên họ không hề biết chính sự gật đầu này đã dẫn họ tiếp xúc với những thế lực siêu nhiên kì quái và trở thành 1 trong những vụ đáng sợ nhất mà họ từng gặp trong đời. The Conjuring khá giống với tác phẩm kinh điển The Exorcist và The Amity ville Horror cùng dàn diễn viên không “bom tấn” nhưng được tờ Variety ca ngợi “chạm đến sự đau xót và chiều sâu”. Trong trailer của The Conjuring người xem có thể hình dung câu chuyện khá ám ảnh với những sự việc kinh hoàng xảy ra trong gia đình Carolyn và Roger Parren ngay trước mắt 2 nhà điều tra. Bản thân Ed và Lorraine cũng gặp phải nguy hiểm.",
+        "trailer": "ejMMn0t58Lc",
+        "tags": "ám ảnh kinh hoàng, the conjuring, phim kinh dị",
+        "slug": "am-anh-kinh-hoang-1",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "esFklZJ9JRLaEOp6yUZG9OzXFP960.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 15:08:07",
+        "ngay_cap_nhat": "2023-06-27 13:08:41",
+        "year": "2013",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 98,
+                    "genre_id": 27
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 97,
+        "title": "LÂU ĐÀI BAY CỦA PHÁP SƯ HOWL",
+        "name_eng": "Howl's Moving Castle",
+        "thoi_luong": "120 phút",
+        "season": "0",
+        "description": "Sophie vốn dĩ làm việc tại cửa hàng mũ do người cha quá cố để lại. Cuộc sống nơi thị trấn buồn tẻ cứ thế trôi qua trong lặng lẽ… cho đến ngày cô bỗng biến thành bà lão.",
+        "trailer": "iwROgK94zcM",
+        "tags": "Howl's Moving Castle, Lâu đài bay của pháp sư Howl, phim hoạt hình, anime",
+        "slug": "lau-dai-bay-cua-phap-su-howl",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "Film-Poster-Sweden-howls-moving-castle-913370_827_1181561.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 15:02:31",
+        "ngay_cap_nhat": "2023-06-27 13:08:56",
+        "year": "2004",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 13,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 97,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 97,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 97,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 96,
+        "title": "NHỮNG MẢNH GHÉP CẢM XÚC",
+        "name_eng": "Inside Out (2015)",
+        "thoi_luong": "95 phút",
+        "season": "0",
+        "description": "Sau khi Riley trẻ tuổi bị bỏ hoang từ cuộc sống Trung Tây của cô và chuyển đến San Francisco, cảm xúc của cô – niềm vui, sợ hãi, giận dữ, ghê tởm và buồn bã – xung đột về cách tốt nhất để điều hướng một thành phố, nhà và trường học mới nhất.",
+        "trailer": "yRUAzGQ3nSY",
+        "tags": "Inside Out, Những mảnh ghép cảm xúc, phim hoạt hình, phim hài hước",
+        "slug": "nhung-manh-ghep-cam-xuc",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "inside-out-1647572613346.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 14:54:18",
+        "ngay_cap_nhat": "2023-06-27 13:09:12",
+        "year": "2015",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 96,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 96,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 96,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 95,
+        "title": "PHI VỤ ĐỘNG TRỜI",
+        "name_eng": "Zootopia (2016)",
+        "thoi_luong": "110 phút",
+        "season": "0",
+        "description": "Trong phim này, Zootopia là một thành phố kì lạ không giống bất kì thành phố nào trước đây của hãng Walt Disney sáng chế. Đây là khu đô thị vui vẻ của các loài động vật, từ voi, tê giác, cho đến những loài nhỏ bé như chuột, thỏ, cún. Cho đến một ngày cô cảnh sát thỏ Judy Hopps xuất hiện, thành phố Zootopia đã có những thay đổi rất là khác. Cô cùng người bạn đồng hành là chú cáo đầy “tiểu xảo” Nick Widle, đã cùng nhau phiêu lưu trong một vụ kỳ án, với mong muốn thiết lập lại trật tự cho thành phố zootopia.",
+        "trailer": "jWM0ct-OLsM",
+        "tags": "Phi vụ động trời, Zootopia, phim hoạt hình",
+        "slug": "phi-vu-dong-troi",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "1669999889723-Zootopia-Poster-1627.jpg",
+        "phim_hot": 0,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 14:51:07",
+        "ngay_cap_nhat": "2023-06-27 13:09:28",
+        "year": "2016",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 95,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 95,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 95,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 94,
+        "title": "ĐI TÌM NEMO",
+        "name_eng": "Finding Nemo (2003)",
+        "thoi_luong": "100 phút",
+        "season": "0",
+        "description": "Một con cá chú hề tên Marlin sống trong Rạn san hô Great Barrier và mất con trai, Nemo, sau khi anh ta mạo hiểm vào biển rộng, bất chấp cảnh báo liên tục của cha mình về nhiều nguy hiểm của đại dương. Nemo bị một chiếc thuyền bị bắt cóc và bị hạ gục và gửi đến văn phòng nha sĩ ở Sydney. Trong khi Marlin mạo hiểm để cố gắng lấy Nemo, Marlin gặp một con cá tên Dory, một Tang xanh bị mất trí nhớ ngắn hạn. Những người bạn đồng hành di chuyển một khoảng cách lớn, gặp nhiều sinh vật biển nguy hiểm như cá mập, cá ấp và sứa, nhằm giải cứu Nemo khỏi văn phòng nha sĩ, nơi nằm cạnh Cảng Sydney. Trong khi cả hai đang tìm kiếm đại dương xa và rộng, Nemo và các động vật biển khác trong bể cá của nha sĩ vẽ cách để quay trở lại biển để sống miễn phí cuộc sống của họ một lần nữa.",
+        "trailer": "2zLkasScy7A",
+        "tags": "Đi tìm Nemo, Finding Nemo, phim hoạt hình",
+        "slug": "di-tim-nemo",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "MMV1F713A2708DAFAE9779155691EA64A9E4113.jpeg",
+        "phim_hot": 0,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 14:48:42",
+        "ngay_cap_nhat": "2023-06-27 13:09:42",
+        "year": "2003",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 94,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 94,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 93,
+        "title": "VÚT BAY",
+        "name_eng": "Up",
+        "thoi_luong": "156 phút",
+        "season": "0",
+        "description": "Là một cậu bé, Carl Fredricksen muốn khám phá Nam Mỹ và tìm những ngã thiên đường hoang dã. Khoảng 64 năm sau, anh ta được bắt đầu hành trình cùng với Boy Scout Russell bằng cách nâng ngôi nhà của mình với hàng ngàn quả bóng bay. Trên hành trình của họ, họ làm cho nhiều người bạn mới bao gồm một con chó biết nói, và tìm ra rằng ai đó có kế hoạch xấu xa. Carl sớm nhận ra rằng những kẻ bất lương này là thần tượng thời thơ ấu của anh.",
+        "trailer": "ORFWdXl_zJ4",
+        "tags": "Up, Vút Bay, phim hoạt hình",
+        "slug": "vut-bay",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "9e4227a0ee81ec8874fd92cf6203066c328.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 14:44:14",
+        "ngay_cap_nhat": "2023-06-27 13:09:56",
+        "year": "2009",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 93,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 93,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 93,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 92,
+        "title": "VUA SƯ TỬ",
+        "name_eng": "The Lion King (2019)",
+        "thoi_luong": "125 phút",
+        "season": "0",
+        "description": "Vua Sư Tử được đạo diễn bởi Jon Favreau sẽ đưa khán giả đến với xavan Châu Phi rộng lớn nơi vị vua tương lai Simba được sinh ra. Tuy là người kế vị ngai vàng chính thức nhưng Simba phải đương đầu với những âm mưu của Scar, người chú ruột luôn toan tính chiếm lấy ngôi báu. Cuộc chiến ở Pride Rock trở nên khốc liệt hơn bao giờ hết và đỉnh điểm là việc chú sư tử Simba bị lưu đày khỏi quê hương. Với sự giúp đỡ của 2 người bạn mới Timon và Pumbaa, Simba dần học cách trưởng thành và quay trở về để giành lại những gì vốn dĩ thuộc về cậu. Bằng kĩ xảo đồ họa ấn tượng và âm nhạc sống động, Vua Sư Tử sẽ tái hiện lại những nhân vật mà khán giả yêu mến theo một cách hoàn toàn mới.",
+        "trailer": "ZXj3lJ9YPjc",
+        "tags": "Vua sư tử, The Lion King, phim hoạt hình",
+        "slug": "vua-su-tủ",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "unnamed (1)824.jpg",
+        "phim_hot": 0,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 14:41:25",
+        "ngay_cap_nhat": "2023-06-27 13:10:14",
+        "year": "2019",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 92,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 92,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 91,
+        "title": "VÙNG ĐẤT LINH HỒN",
+        "name_eng": "Spirited Away (2001)",
+        "thoi_luong": "125 phút",
+        "season": "0",
+        "description": "Chihiro lạc vào thế giới ma thuật nơi một phù thủy cai trị – và những ai không tuân theo mụ ta sẽ bị biến thành động vật.",
+        "trailer": "cMaCHa7RDfc",
+        "tags": "Vùng đất linh hồn, Spirited Away, anime, phim hoạt hình",
+        "slug": "vung-dat-linh-hon",
+        "resolution": 0,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "XjEKyx372.jpg",
+        "phim_hot": 0,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 14:37:45",
+        "ngay_cap_nhat": "2023-06-27 13:10:29",
+        "year": "2001",
+        "category_id": 19,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 13,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 91,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 91,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 90,
+        "title": "CUỘC ĐỔ BỘ BÍ ẨN",
+        "name_eng": "Arrival (2016)",
+        "thoi_luong": "120 phút",
+        "season": "0",
+        "description": "Truyện kể về hành trình của tiến sĩ ngôn ngữ học Louise Banks và người đồng hành của cô, tiến sĩ vật lý Gary Donnelly (tên trong phim: Ian) trong công cuộc tìm hiểu mục đích chuyến viếng thăm Trái Đất bất ngờ của người ngoài hành tinh Heptapod. Thông qua việc học và nghiên cứu ngôn ngữ viết của chúng, Louise đã có khả năng nhìn thấy tương lai. Trong bối cảnh ấy, tác giả Ted Chiang đã đặt nhân vật của mình vào một lựa chọn lớn: thay đổi hay giữ nguyên tương lai của mình.",
+        "trailer": "tFMo3UJ4B4g",
+        "tags": "Phim hành động, phim khoa học, The Arrival,  Cuộc Đổ Bộ Bí Ẩn, Arrival movie, Arrival Denis Villeneuve",
+        "slug": "cuoc-do-bo-bi-an",
+        "resolution": 3,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "z4464241298380_93591650d64da2fa590232f29599d92a640.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 12:47:19",
+        "ngay_cap_nhat": "2023-06-27 13:10:44",
+        "year": "2016",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 90,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 90,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 90,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 89,
+        "title": "QUÁ NHANH QUÁ NGUY HIỂM 10",
+        "name_eng": "Fast X (2023)",
+        "thoi_luong": "141 phút",
+        "season": "10",
+        "description": "Với phần phim thứ 10 được lên kế hoạch từ năm 2014, và một phim cuối gồm 2 phần được lên kế hoạch từ tháng 10 năm 2020, Justin Lin cùng dàn diễn viên chính được xác nhận rằng sẽ quay trở lại phim. Đây là phim thứ 2 trong loạt phim mà không có Dwayne Johnson kể từ lần đầu anh xuất hiện trong Fast & Furious 5: Phi vụ Rio (2011). Tựa đề chính thức của phim được tiết lộ khi quá trình quay phim chính bắt đầu vào tháng 4 năm 2022. Cuối tháng đó, Lin rời ghế đạo diễn với lý do là sự mâu thuẫn về mặt sáng tạo, mặc dù anh vẫn sẽ được nhắc đến với vai trò viết kịch bản và sản xuất trong mục danh đề. 1 tuần sau đó, Leterrier được thuê để thay thế vai trò đạo diễn của Lin. Với ngân sách sản xuất là khoảng 340 triệu USD, Fast X là phim có kinh phí cao thứ 4 từ trước đến nay.",
+        "trailer": "32RAq6JzY-w",
+        "tags": "Quá Nhanh Quá Nguy Hiểm, Fast X, phim hành động",
+        "slug": "qua-nhanh-qua-nguy-hiem-10",
+        "resolution": 5,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "3bf19af08c2fe0a3740bce7c89faeca0_original31.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 12:34:18",
+        "ngay_cap_nhat": "2023-06-27 13:11:10",
+        "year": "2023",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 89,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 88,
+        "title": "LẬT MẶT 6 - TẤM VÉ ĐỊNH MỆNH",
+        "name_eng": "Face Off 6",
+        "thoi_luong": "210 phút",
+        "season": "6",
+        "description": "Ở “Tấm vé định mệnh”, một câu chuyện về tình bạn giữa những người anh em đã gắn kết với nhau ở vùng sông nước miền Tây Nam bộ đã được khắc họa với nhiều cung bậc cảm xúc. Phần phim này Lý Hải vẫn giữ được “phong độ” khi giải quyết tốt được việc liên kết nhóm nhân vật chính trở thành một mạch thống nhất. Mạch phim và câu chuyện của các nhân vật trong phim được dẫn dắt khá mạch lạc, không có sự gượng gạo hay nhồi ép quá mức.",
+        "trailer": "2EnP2tVC00Q",
+        "tags": "Phim hành động, phim gia đình, Lật Mặt, Face Off",
+        "slug": "lat-mat-6-tam-ve-dinh-menh",
+        "resolution": 5,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "lat-mat-6460.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 12:30:02",
+        "ngay_cap_nhat": "2023-06-27 13:11:28",
+        "year": "2023",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 8,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 19,
+                "title": "Tình Cảm",
+                "description": "Phim Tình Cảm",
+                "status": 1,
+                "slug": "tinh-cam",
+                "pivot": {
+                    "movie_id": 88,
+                    "genre_id": 19
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 88,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 88,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 8,
+            "title": "Việt Nam",
+            "description": "Phim Việt Nam",
+            "status": 1,
+            "slug": "viet-nam"
+        }
+    },
+    {
+        "id": 87,
+        "title": "NGƯỜI VỀ TỪ SAO HỎA",
+        "name_eng": "The Martian (2015)",
+        "thoi_luong": "141 phút",
+        "season": "0",
+        "description": "Người Về Từ Sao Hỏa kể về cuộc chiến sinh tồn của phi hành gia Mark Watney (Matt Damon) sau khi anh bị kẹt lại trên Sao Hoả. Phải mất ít nhất 4 năm nữa NASA mới quay trở lại hành tinh này để thực hiện nhiệm vụ tiếp theo, và tất nhiên Mark không thể sống sót được đến lúc đó. Căn cứ do nhóm của anh xây dựng hiện chỉ tồn tại được trong 31 ngày. Mark phải tìm được nguồn nước, phải trồng được thực phẩm tại nơi vốn không thứ gì có thể mọc nổi. Nỗ lực phi thường cuối cùng cũng được đáp trả khi NASA phát hiện tín hiệu cầu cứu của anh. Nhưng, một lần nữa, số phận Mark lại bị đem lên bàn cân khi NASA cho rằng quay lại Sao Hoả có thể phải trả giá bằng tính mạng của 6 người khác. 6 thành viên trong nhóm Mark đã quyết định lén lút thực hiện chiến dịch giải cứu anh. Liệu họ có thành công? Liệu Mark có thể trở về trái đất để toàn tụ cùng vợ con? Đó là điều mà cả thế giới đang ngày ngày dõi theo.",
+        "trailer": "ej3ioOneTy8",
+        "tags": "Người Về Từ Sao Hỏa, The Martian, phim hành động, phim khoa học",
+        "slug": "nguoi-ve-tu-sao-hoa",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "22391cac-2740-4196-9af6-bc0b45d45885503.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 12:20:52",
+        "ngay_cap_nhat": "2023-06-27 13:11:43",
+        "year": "2015",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 87,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 87,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 87,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 86,
+        "title": "KẺ ĐÁNH CẮP GIẤC MƠ",
+        "name_eng": "Inception (2010)",
+        "thoi_luong": "150 phút",
+        "season": "0",
+        "description": "Dom Cobb không phải là một tên trộm bình thường, anh ta là một bậc thầy trong việc trộm cắp, có thể xâm nhập vào cõi vô thức của bất kỳ người nào. một người nào đó để đánh cắp những bí mật sâu kín nhất của mình. Muốn làm được điều này, anh đã bước vào giấc mơ của người đó. “Chúng tôi tạo ra thế giới của những giấc mơ. Chúng ta đưa đối tượng vào thế giới mộng mơ đó và đối tượng khai ra tất cả bí mật, và sau đó chúng ta đánh cắp bí mật. Nhưng đã đến lúc Cobb cảm thấy mệt mỏi với những tên tội phạm hành động theo lệnh của anh ta. các tập đoàn. Anh muốn trở lại cuộc sống bình thường như bao người khác. Để làm được như vậy, anh ta phải làm một công việc cuối cùng cho Saito, một người khổng lồ nắm giữ cục tẩy của Cobb trước nhà chức trách Mỹ. Nhưng thay vì đánh cắp thông tin, Saito muốn cấy vào tâm trí một tập đoàn đối thủ cạnh tranh một ý tưởng. Với ý tưởng đó, đối thủ này chỉ có một con đường để đi.",
+        "trailer": "YoHD9XEInc0",
+        "tags": "Phim hành động, phim khoa học, Kẻ đánh cắp giấc mơ, Inception",
+        "slug": "ke-danh-cap-giac-mo",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "inception999.jpg",
+        "phim_hot": 1,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 12:16:38",
+        "ngay_cap_nhat": "2023-06-27 13:11:56",
+        "year": "2010",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 86,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 86,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 86,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 85,
+        "title": "HỐ ĐEN TỬ THẦN",
+        "name_eng": "Interstellar (2014)",
+        "thoi_luong": "169 phút",
+        "season": "0",
+        "description": "Hố Đen Tử Thần là biên niên ký về cuộc phiêu lưu vĩ đại của một nhóm các nhà thám hiểm sử dụng khám phá mới về lỗ đen vũ trụ để vượt qua các giới hạn thông thường trong du hành không gian, chinh phục khoảng không mênh mông trên một chuyến hành trình xuyên dải ngân hà...",
+        "trailer": "QqSp_dwslro",
+        "tags": "Phim khoa học, phim hành động, Hố đen tử thần, Interstellar",
+        "slug": "ho-den-tu-than",
+        "resolution": 2,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "tarp-zvaigzdziu-dvd42.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 12:07:55",
+        "ngay_cap_nhat": "2023-06-27 13:12:09",
+        "year": "2014",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 85,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 85,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 85,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 84,
+        "title": "TRỞ VỀ TƯƠNG LAI 3",
+        "name_eng": "Back To The Future 3",
+        "thoi_luong": "180 phút",
+        "season": "3",
+        "description": "Một trục trặc xảy ra với cỗ máy thời gian, đưa tiến sĩ Emmett trở về năm 1885. Marty buộc phải quay trở lại năm đó để đưa người bạn già trở về. Nhờ chuyến đi đó mà cậu gặp được tổ tiên của dòng họ McFly. Sau khi lấy lại cuốn niên giám thể thao từ tay Biff vào năm 1955, qua đó đưa mọi thứ ở năm 1985 trở lại bình thường, Marty và tiến sĩ Emmett Brown sửa lại cỗ máy thời gian và trở về hiện tại. Nhưng rồi một sự cố xảy ra, đẩy vị tiến sĩ về năm 1885 và làm hỏng cỗ máy thời gian. Ông buộc phải làm nghề rèn để kiếm sống và tìm cách sửa chữa cỗ máy. Sau khi gửi một lá thư về tương lai để báo cho Marty biết tình hình, Emmett bị một tên cướp tên là Tannen bắn chết. Mọi việc trong quá khứ sẽ làm thay đổi tương lai. Marty sẽ phải làm gì để cứu người bạn của mình...",
+        "trailer": "3C8c3EoEfw4",
+        "tags": "Phim hành động, phim khoa học, Back to the future, Trở về tương lai",
+        "slug": "tro-ve-tuong-lai-3",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "tro-ve-tuong-lai-phan-3-thumb596.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 12:04:03",
+        "ngay_cap_nhat": "2023-06-27 13:12:24",
+        "year": "1990",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 84,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 84,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 84,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 83,
+        "title": "TRỞ VỀ TƯƠNG LAI 2",
+        "name_eng": "Back To The Future 2",
+        "thoi_luong": "180 phút",
+        "season": "2",
+        "description": "Để ngăn chặn sự sụp đổ của gia đình McFly trong tương lai, Marty phải dùng cỗ máy thời gian đi tới năm 2015 để gặp con trai của cậu. Quay trở lại năm 1985 sau khi xong việc, Marty kinh hoàng khi thấy mọi thứ đã thay đổi: cha bị giết, mẹ lấy người khác, còn tiến sĩ Brown thì bị điên. Phần hai của bộ phim mở đầu với cảnh Marty McFly (Michael J.Fox) và tiến sĩ Emmett Brown (Christopher Lloyd) hành trình tới năm 2015 để ngăn chặn con trai của Marty tham gia một vụ cướp. Cùng đi với họ là Jennifer Parker (Elisabeth Shue), bạn gái của Marty.",
+        "trailer": "MdENmefJRpw",
+        "tags": "Phim khoa học, phim hành động, Trở về tương lai, Back to the future",
+        "slug": "tro-ve-tuong-lai-2",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "bo-phim-du-hanh-thoi-gian-dac-sac-ma-ai-cung-nen-xem-it-nhat-mot-lan-d9d21407.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 12:01:25",
+        "ngay_cap_nhat": "2023-06-27 13:15:37",
+        "year": "1989",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 83,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 83,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 83,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 82,
+        "title": "TRỞ VỀ TƯƠNG LAI 1",
+        "name_eng": "Back to the Future 1",
+        "thoi_luong": "180 phút",
+        "season": "1",
+        "description": "Bị mắc kẹt vào năm 1955, Marty McFly biết về cái chết của Doc Brown vào năm 1885 và phải du hành ngược thời gian để cứu anh ta. Không có nhiên liệu có sẵn cho Delorean, cả hai phải tìm cách thoát khỏi phương Tây cũ trước khi Emmett bị sát hại.",
+        "trailer": "qvsgGtivCgs",
+        "tags": "Phim khoa học, Back to the future, Trở về tương lai, phim hành động",
+        "slug": "tro-ve-tuong-lai-1",
+        "resolution": 0,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "10_Mu_Poster_Cinema_p734.png",
+        "phim_hot": 0,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 11:54:35",
+        "ngay_cap_nhat": "2023-06-27 13:15:59",
+        "year": "1986",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 82,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 82,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 82,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 81,
+        "title": "MA TRẬN",
+        "name_eng": "The Matrix (1999)",
+        "thoi_luong": "130 phút",
+        "season": "1",
+        "description": "Thế giới chúng ta đang sống có phải là thực, hay chỉ là một ảo mộng? Liệu có một ngày nào đó trí tuệ nhân tạo và robot trở nên thông minh vượt kiểm soát và kiểm soát loài người?... Đó là những đề tài kinh điển đã được điện ảnh khai thác, và thành công nhất trong đó là huyền thoại The Matrix | Ma Trận. Loạt phim 4 phần được đánh giá cao về đề tài, nội dung và kỹ thuật, trở thành một trong những bộ phim khoa học viễn tưởng có sức ảnh hưởng lớn nhất trong lịch sử điện ảnh. Đây là phần đầu tiên, bắt đầu xoay quanh cuộc sống của Thomas A. Anderson, một lập trình viên\/hacker thiên tài biệt danh Neo. Một ngày nọ, một người lạ mặt gửi cho Neo một thông điệp, cho anh biết rằng thế giới mà anh đang sống không phải thực tại mà chỉ là một thế giới ảo do chương trình máy tính kiểm soát. Sau đó, Neo được sự giúp đỡ của Morpheus và Trinity, đưa anh vào cuộc chiến chống lại hệ thống trí tuệ nhân tạo đang kiểm soát ma trận với hy vọng giải phóng tất cả mọi người đang bị mê hoặc.",
+        "trailer": "VdZwkM_HWzw",
+        "tags": "Phim khoa học, phim hành động, The Matrix, Ma trận",
+        "slug": "ma-tran",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "the matrix814.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 11:47:08",
+        "ngay_cap_nhat": "2023-06-27 13:16:15",
+        "year": "1999",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 81,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 81,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 81,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 80,
+        "title": "CÔNG VIÊN KỶ JURA",
+        "name_eng": "Jurassic Park (1993)",
+        "thoi_luong": "120 phút",
+        "season": "0",
+        "description": "Trên một hòn đảo bí mật ,công việc chế tạo lại khủng long đang được hoàn thành bởi những DNA còn lại trên những con muỗi cổ xưa. Trước khi mở công viên của mình, ông Hammond đã mời một nhóm khoa học đến để tham quan và giúp đỡ ông. Nhưng trong một đêm mưa bão, hệ thống bảo vệ bị sụp đổ, những con thú khổng lồ cổ xưa thoát ra ngoài.",
+        "trailer": "At228WVzDYU",
+        "tags": "Phim hành động, phim khoa học viễn tưởng, Công viên kỷ Jura, Jurassic Park",
+        "slug": "cong-vien-ky-jura",
+        "resolution": 3,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "jurassic park383.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 11:42:05",
+        "ngay_cap_nhat": "2023-06-27 13:16:33",
+        "year": "1993",
+        "category_id": 20,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 20,
+            "title": "Phim Khoa Học",
+            "description": "Phim khoa học thường xây dựng một thế giới tưởng tượng, có thể là trong tương lai, quá khứ hoặc một thực tại song song.",
+            "status": 1,
+            "slug": "phim-khoa-hoc"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 80,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 80,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 80,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 79,
+        "title": "CONAN THÁM TỬ LỪNG DANH MOVIE 2 - MỤC TIÊU THỨ 14",
+        "name_eng": "Detective Conan 2: The Fourteenth Target",
+        "thoi_luong": "110 phút",
+        "season": "2",
+        "description": "Trong tập phim này, Ran có một cơn ác mộng về vụ tai nạn của mẹ mình và cô bắt đầu tìm cách nhớ lại về sự kiện đó. Trong lúc đó, người có vài quan hệ thân thiết với thám tử Mori, đã bị tấn công. Tất cả những cái tên của nạn nhân đều phù hợp với những lá bài. Những người này là mục tiêu theo thứ tự từ quân K đến quân A. Cảnh sát kết luận rằng kẻ tấn công muốn trả thù ông Mori, nhưng khi những cuộc tấn công này trở thành tội ác, Conan nhận ra rằng sẽ có 1 cuộc đua để dự đoán được nạn nhân tiếp theo sẽ là ai. Cậu ta sớm phát hiện ra được có một vài điểm khác biệt trong sự nghi ngờ của cảnh sát khi tìm hiểu về tai nạn của 10 năm trước.",
+        "trailer": "PDT1iOGjwOs",
+        "tags": "Conan, Thám tử lừng danh, Detective Conan, phim hoạt hình",
+        "slug": "conan-tham-tu-lung-danh-movie-2-muc-tieu-thu-14",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "conan movie 2 muc tieu thu 14494.png",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 11:31:16",
+        "ngay_cap_nhat": "2023-06-27 13:16:48",
+        "year": "1998",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 13,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 79,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 79,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 78,
+        "title": "XIN CHÀO JADOO",
+        "name_eng": "Hello Jadoo",
+        "thoi_luong": "11 phút \/ tập",
+        "season": "0",
+        "description": "Xin Chào Jadoo là loạt phim hoạt hình phát triển từ một bộ truyện tranh rất nổi tiếng của Hàn Quốc với nhân vật chính là cô bé Jadoo vui vẻ, hoạt bát, dễ thương. Nội dung chính là những câu chuyện xảy ra trong cuộc sống hàng ngày của Jadoo. Mối quan hệ với các thành viên trong gia đình, trong lớp học và ngoài xã hội; những khó khăn, thử thách trong học tập và sinh hoạt,..luôn đòi hỏi cô bé Jadoo và các bạn của mình phải rèn luyện, hình thành những thói quen tốt, cách cư xử đúng mực để có được sự yêu mến của mọi người và thành công trong cuộc sống.",
+        "trailer": "4pDEMfQsEV4",
+        "tags": "Hello Jadoo, Jadoo Viet Nam, XIn chào Jadoo, phim hoạt hình, phim hài hước",
+        "slug": "xin-chao-jadoo",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 19,
+        "status": 1,
+        "image": "hellojadoo783.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 11:14:14",
+        "ngay_cap_nhat": "2023-06-27 13:17:02",
+        "year": "1997",
+        "category_id": 19,
+        "thuocphim": "phimbo",
+        "genre_id": 2,
+        "country_id": 12,
+        "episode_count": 0,
+        "category": {
+            "id": 19,
+            "title": "Phim Hoạt Hình",
+            "description": "Phim hoạt hình có thể là hoạt hình 2D (vẽ tay) hoặc hoạt hình 3D (sử dụng mô hình 3D và kỹ thuật máy tính đồ họa).",
+            "status": 1,
+            "slug": "phim-hoat-hinh"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 26,
+                "title": "Hài",
+                "description": "Phim Hài",
+                "status": 1,
+                "slug": "hai",
+                "pivot": {
+                    "movie_id": 78,
+                    "genre_id": 26
+                }
+            },
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 78,
+                    "genre_id": 28
+                }
+            },
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 78,
+                    "genre_id": 29
+                }
+            }
+        ],
+        "country": {
+            "id": 12,
+            "title": "Hàn Quốc",
+            "description": "Phim Hàn Quốc",
+            "status": 1,
+            "slug": "han-quoc"
+        }
+    },
+    {
+        "id": 77,
+        "title": "CONAN THÁM TỬ LỪNG DANH MOVIE 1 - QUẢ BOM CHỌC TRỜI",
+        "name_eng": "Detective Conan Movie 1: The Time Bombed Skyscraper",
+        "thoi_luong": "94 phút",
+        "season": "1",
+        "description": "Detective Conan: The Time Bombed Skyscraper (Lồng Tiếng) kể về việc Shinichi nhận lời mời dự tiệc từ kiến trúc sư Teiji Moriya, người không hề biết cậu đã bị thu nhỏ thành Conan. Cùng lúc đó, một kẻ lạ mặt gọi điện thách thức cậu tìm ra những quả bom đang được đặt xung quanh Tokyo. Hai sự kiện này liệu có liên quan đến nhau? Mọi việc càng trở nên nghiêm trọng khi Ran bị mắc kẹt tại một trong những tòa nhà đã bị đặt bom. Liệu Conan có tìm ra hung thủ và cứu cô bạn mình khỏi khoảnh khắc sinh tử?",
+        "trailer": "Ybln9aAyjvo",
+        "tags": "Detective Conan, Phim Conan, Thám tử lừng danh Conan, Shinichi Kudo, Kudo Shinichi no Jikenbo, Phim hoạt hình Conan, Movie Conan, phim hoạt hình, Anime Conan",
+        "slug": "conan-tham-tu-lung-danh-movie-1-qua-bom-choc-troi",
+        "resolution": 2,
+        "phude": 1,
+        "sotap": 0,
+        "status": 1,
+        "image": "conan movie 1 qua bom choc troi979.jpg",
+        "phim_hot": 0,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 11:07:04",
+        "ngay_cap_nhat": "2023-06-27 13:17:17",
+        "year": "1997",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 2,
+        "country_id": 13,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 28,
+                "title": "Hoạt Hình",
+                "description": "Phim Hoạt Hình",
+                "status": 1,
+                "slug": "hoat-hinh",
+                "pivot": {
+                    "movie_id": 77,
+                    "genre_id": 28
+                }
+            }
+        ],
+        "country": {
+            "id": 13,
+            "title": "Nhật Bản",
+            "description": "Phim Nhật Bản",
+            "status": 1,
+            "slug": "nhat-ban"
+        }
+    },
+    {
+        "id": 76,
+        "title": "DIỆP VẤN",
+        "name_eng": "Ip Man",
+        "thoi_luong": "110 phút \/ tập",
+        "season": "4",
+        "description": "Diệp Vấn là bộ phim đầu tiên được dàn dựng dựa trên cuộc đời của Diệp Vấn[2]. Ý định đưa cuộc đời của Diệp sư phụ lên màn ảnh đã có từ năm 1998, song bị gác lại một thời gian do vấn đề bản quyền. Tình trạng này cứ kéo dài mãi cho tới khi nam diễn viên kiêm nhà sản xuất phim Huỳnh Bách Minh nhận được sự hỗ trợ về kinh phí và tư vấn từ con trai cả của Diệp Vấn là Diệp Chuẩn, ông đã quyết định làm bộ phim này. Bách Minh đã có một thời gian nghiên cứu về những ngày tại vùng đất Phật Sơn của Diệp Vấn, cũng như nghiên cứu về tiểu sử của vị danh sư. Từ những ý tưởng này mà con trai của Bách Minh là Huỳnh Tử Hoàn chắp bút viết kịch bản.",
+        "trailer": "lzIkybm47to",
+        "tags": "Diệp Vấn, IP Man, Yip Man, Phim về Võ sư Diệp Vấn, Donnie Yen, Phim võ thuật, Phim hành động, Phim lịch sử võ thuật, Võ thuật Trung Quốc, Wing Chun, Bộ phim Diệp Vấn, The Legend is Born: Ip Man, IP Man 2, IP Man 3, IP Man 4: The Finale",
+        "slug": "diep-van",
+        "resolution": 1,
+        "phude": 1,
+        "sotap": 3,
+        "status": 1,
+        "image": "ip-man-3-1647502248518.jpg",
+        "phim_hot": 1,
+        "topview": 2,
+        "ngay_tao": "2023-06-26 02:23:26",
+        "ngay_cap_nhat": "2023-06-27 13:17:33",
+        "year": "2008",
+        "category_id": 9,
+        "thuocphim": "phimbo",
+        "genre_id": 3,
+        "country_id": 10,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 29,
+                "title": "Gia Đình",
+                "description": "Phim Gia Đình",
+                "status": 1,
+                "slug": "gia-dinh",
+                "pivot": {
+                    "movie_id": 76,
+                    "genre_id": 29
+                }
+            },
+            {
+                "id": 30,
+                "title": "Võ Thuật",
+                "description": "Phim Võ Thuật",
+                "status": 1,
+                "slug": "vo-thuat",
+                "pivot": {
+                    "movie_id": 76,
+                    "genre_id": 30
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 76,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 10,
+            "title": "Trung Quốc",
+            "description": "Phim Trung Quốc",
+            "status": 1,
+            "slug": "trung-quoc"
+        }
+    },
+    {
+        "id": 75,
+        "title": "THOR: TẬN THẾ RAGNAROK",
+        "name_eng": "Thor Ragnarok (2017)",
+        "thoi_luong": "130 phút",
+        "season": "0",
+        "description": "Trong phim, Thor phải tìm cách trốn thoát khỏi hành tinh Sakaar để kịp thời cứu Asgard khỏi Hela và ngày tận thế Ragnarok. Hai năm sau sự kiện Ultron, dù Thor cố gắng hết sức ngăn chặn viễn cảnh tận thế bi thảm của Asgard, mọi thứ vẫn trở thành sự thật. Quê nhà mịt mù khói lửa, những mạng người vô tội lần lượt ngã xuống. Và người tạo nên địa ngục ấy là Hela – cô con gái đầu lòng nhà Odin. Không còn những câu bông đùa nhàm chán của anh chàng cơ bắp nhận thức ngô nghê, Thor duyên dáng và hài hước, khiến khán giả cười mọi lúc mọi nơi.",
+        "trailer": "ue80QwXMRHg",
+        "tags": "Thor: Ragnarok, Thor: Sự Trỗi Dậy Của Ragnarok, Thor movie, Ragnarok movie, MCU (Marvel Cinematic Universe), Marvel, phim hành động, phim thần thoại",
+        "slug": "thor-tan-the-ragnarok",
+        "resolution": 1,
+        "phude": 0,
+        "sotap": 0,
+        "status": 1,
+        "image": "thor_ragnarok_2017129.jpg",
+        "phim_hot": 1,
+        "topview": 0,
+        "ngay_tao": "2023-06-26 01:59:53",
+        "ngay_cap_nhat": "2023-06-27 13:17:47",
+        "year": "2017",
+        "category_id": 9,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 9,
+            "title": "Phim Chiếu Rạp",
+            "description": "Phim chiếu rạp là các bộ phim được công chiếu trên màn hình rạp chiếu phim.",
+            "status": 1,
+            "slug": "phim-chieu-rap"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 23,
+                "title": "Khoa Học Viễn Tưởng",
+                "description": "Phim Khoa Học Viễn Tưởng",
+                "status": 1,
+                "slug": "khoa-hoc-vien-tuong",
+                "pivot": {
+                    "movie_id": 75,
+                    "genre_id": 23
+                }
+            },
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 75,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 75,
+                    "genre_id": 32
+                }
+            },
+            {
+                "id": 34,
+                "title": "Thần Thoại",
+                "description": "Phim Thần Thoại",
+                "status": 1,
+                "slug": "than-thoai",
+                "pivot": {
+                    "movie_id": 75,
+                    "genre_id": 34
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    },
+    {
+        "id": 74,
+        "title": "XÁC ƯỚP AI CẬP",
+        "name_eng": "The Mummy (1999)",
+        "thoi_luong": "128 phút",
+        "season": "0",
+        "description": "Một bộ phim phiêu lưu kinh dị kết hợp với yếu tố thần thoại Ai Cập, nó mô tả cuộc phiêu lưu của nhà khảo cổ Rick O'Connell khi anh chiến đấu chống lại một xác ướp sống. Phim là bản làm lại của bộ phim Xác ướp (1932), với sự tham gia của Boris Karloff trong vai xác ướp. Trong bộ phim này, nhà thám hiểm Rick O'Connell đi đến Hamunaptra, thành phố của người chết, cùng một nhà khảo cổ học và anh trai cô. Ở đó, họ vô tình đánh thức Imhotep, vị Tư Tế Cao cấp từ triều đại của vị vua Seti Đệ Nhất, người đã bị nguyền rủa mãi mãi.",
+        "trailer": "f7oKxlaUBac",
+        "tags": "Xác Ướp Ai Cập, The Mummy, Xác Ướp Đáng Sợ, Brendan Fraser, Rachel Weisz, Pharaoh, Mummy Returns, Xác Ướp Ai Cập 1999, Adventure movie, Action movie, Ancient Egypt, Mummy curse, Imhotep, Ardeth Bay, O'Connell family, phim thần thoại, phim kinh dị, phim phiêu lưu",
+        "slug": "xac-uop-ai-cap",
+        "resolution": 0,
+        "phude": 1,
+        "sotap": 1,
+        "status": 1,
+        "image": "The Mummy 1999704.jpg",
+        "phim_hot": 0,
+        "topview": 1,
+        "ngay_tao": "2023-06-26 01:17:55",
+        "ngay_cap_nhat": "2023-06-27 13:18:02",
+        "year": "1999",
+        "category_id": 21,
+        "thuocphim": "phimle",
+        "genre_id": 3,
+        "country_id": 9,
+        "episode_count": 0,
+        "category": {
+            "id": 21,
+            "title": "Phim Kinh Dị",
+            "description": "<p>Phim kinh dị l&agrave; một thể loại phim tập trung v&agrave;o việc tạo ra cảm gi&aacute;c sợ h&atilde;i, kinh dị v&agrave; &aacute;m ảnh trong kh&aacute;n giả.<\/p>",
+            "status": 1,
+            "slug": "phim-kinh-di"
+        },
+        "genre": null,
+        "movie_genre": [
+            {
+                "id": 25,
+                "title": "Phiêu Lưu",
+                "description": "Phim Phiêu Lưu",
+                "status": 1,
+                "slug": "phieu-luu",
+                "pivot": {
+                    "movie_id": 74,
+                    "genre_id": 25
+                }
+            },
+            {
+                "id": 27,
+                "title": "Kinh Dị",
+                "description": "Phim Kinh Dị",
+                "status": 1,
+                "slug": "kinh-di",
+                "pivot": {
+                    "movie_id": 74,
+                    "genre_id": 27
+                }
+            },
+            {
+                "id": 32,
+                "title": "Hành Động",
+                "description": "Phim Hành Động",
+                "status": 1,
+                "slug": "hanh-dong",
+                "pivot": {
+                    "movie_id": 74,
+                    "genre_id": 32
+                }
+            }
+        ],
+        "country": {
+            "id": 9,
+            "title": "Âu Mỹ",
+            "description": "Phim Âu Mỹ",
+            "status": 1,
+            "slug": "au-my"
+        }
+    }
+]
